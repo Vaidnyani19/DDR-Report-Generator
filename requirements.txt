@@ -3,3 +3,4 @@ pymupdf
 python-docx
 streamlit
 pillow
+python-dotenv
