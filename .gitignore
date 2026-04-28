@@ -1,0 +1,7 @@
+.env
+__pycache__/
+temp_imgs/
+output/
+temp_inspection.pdf
+temp_thermal.pdf
+*.docx

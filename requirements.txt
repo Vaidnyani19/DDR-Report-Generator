@@ -1,0 +1,5 @@
+groq
+pymupdf
+python-docx
+streamlit
+pillow
